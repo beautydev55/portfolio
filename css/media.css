@@ -1,0 +1,416 @@
+
+@media (max-width: 1199px ){
+
+    .download span {
+        font-size: 25px;
+       
+    }
+    .download h2 {
+        font-size: 26px;
+    }
+
+    .price_table {
+        margin-top: 20px;
+    }
+    .phone1 img{
+        width: 90% !important;
+    }
+    .details_main{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+    .price_table {
+        width: 90%;
+        margin: auto;
+        margin-top: 40px;
+    }
+    .form_box {
+
+        width: 80%;
+    }
+
+}
+
+@media (max-width: 991px ) and (orientation: landscape){
+    .height {
+
+        height: 550px;
+    }
+
+}
+
+
+
+
+@media (max-width: 991px ){
+
+    .nav-link {
+        font-size: 18px;
+    }
+    .navbar-icon i{
+        
+        font-size: 30px;
+    }
+
+    .phone_image {
+        display: none;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+    .nav-item {
+        margin-bottom: 20px;
+        display: inline-flex;
+        justify-content: center;
+    }
+    .height {
+        text-align: center;
+        min-height: 60vh;
+    }
+    .price_table {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+
+    header h5 {
+        font-size: 14px;
+    }
+    header h1 {
+        font-size: 50px;
+    }
+    header p {
+        font-size: 18px;
+    }
+    .phone_image {
+        left: 50%;
+        transform: translate(-50%);
+    }
+    .btn-download {
+        padding: 15px 30px;
+        margin-top: 0;
+    }
+    
+    .details {
+        padding: 30px 0 70px;
+    }
+    .phone1 {
+        display: grid;
+        align-items: center;
+    }
+    .customize_section {
+        padding: 70px 0;
+    }
+    .cleint{
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .testimonial_section p{
+        margin: auto;
+        text-align: center;
+    }
+    .download h2 {
+        font-size: 34px;
+        text-align: center;
+    }
+    .download .text-end{
+        text-align: center !important;
+        margin-top: 30px;
+    }
+    .price_table {
+        margin-top: 20px;
+    }
+    
+    .phone1 img{
+        width: 100% !important;
+    }
+    
+}
+
+@media (max-width: 767px ){
+    .height {
+        min-height: 70vh;
+        text-align: center;
+    }
+
+    .btn-download {
+        padding: 15px 30px;
+        font-size: 12px;
+        margin-top: 30px;
+    }
+
+    .details .phone1 img {
+        width: 80%;
+        margin-bottom: 20px; 
+        display: flex;
+        margin: auto;
+    }
+    .feature_section {
+        padding: 25px 0px;
+    }
+    .customize_section {
+        padding: 20px 0 70px;
+    }
+
+    .details_main {
+        
+        margin-top: 50px !important;
+    }
+    
+    .heading h1,
+    .heading h5,
+    .download h2{
+        text-align: center;
+    }
+    .details .heading span,
+    .customize_section .heading span {
+        margin: auto; 
+        margin-top: 30px;
+    }
+    .details p,
+    .customize_section p {
+        margin: auto;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .details ul li {
+        margin-left: 150px;
+    }
+    .details ul {
+        margin-top: 45px;
+    }
+    .price_table p {
+        width: 100%;
+        margin: auto;
+    }
+    .contact_section {
+        padding-bottom: 500px;
+    }
+    .form_box {
+        width: 80%;
+    }
+}
+
+@media (max-width: 575px ) {
+    
+    .navbar-icon i{
+        font-size: 25px;
+    }
+    .nav-item {
+        margin-bottom: 10px;
+    }
+    .nav-link {
+        font-size: 16px;
+    }
+    
+    .details img{
+        width: 60%;
+        margin: auto;
+    }
+    .details{
+        padding: 0 0 70px 0;
+        text-align: center;
+    }
+
+    .details .heading,
+    .customize_section .heading,
+    .testimonial_section .heading,
+    .testimonial_section .heading,
+    .pricing .heading,
+    .contact_section .heading{  
+        text-align: center !important;
+        margin-top: 70px;
+    }
+    .details .heading span,
+    .customize_section .heading span,
+    .testimonial_section .heading span,
+    .testimonial_section .heading span,
+    .pricing .heading span,
+    .contact_section .heading span {
+        margin: 30px auto;
+    }
+
+    .details ul {
+        width: 51%;
+        margin: auto;
+    }
+    .details p,
+    .customize_section p{
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .customize_section {
+        padding: 0px 0px 50px;
+    }
+
+    .testimonial_section p{
+        margin: auto;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .cleint{
+        justify-content: center;
+        align-items: normal;
+    }
+
+    .download h2{   
+        text-align: center;  
+        margin-bottom: 30px;
+    }
+    .download .text-end{
+        text-align: center !important;
+    }
+
+    .pricing .heading,
+    .contact_section .heading{
+        margin-bottom: 10px;
+    }
+    .price_table {
+        width: 90%;
+        margin: auto;
+        margin-bottom: 25px;
+    }
+    .contact_section .text-center{
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .contact_section {
+        padding-bottom: 500px;
+    }
+    .form_box{ 
+        width: 90%;  
+    }
+
+    .price_table .btn-download {
+        font-size: 16px;
+    }
+    .details ul li {
+        margin-left: 0px;
+    }
+        
+}
+@media (max-width: 425px ){
+
+
+    header p {
+        font-size: 14px;
+    }
+    header h5 {
+        font-size: 12px;
+    }
+    header h1 {
+        font-size: 30px;
+    }
+    .btn-download {
+        font-size: 12px;
+        width: 50%;
+    }
+    .details ul {
+        width: 81%;
+    }
+    .heading {
+        margin-bottom: 0;
+    }
+    .download .view-btn {
+        margin: 0px 0 20px;
+    }
+    .price_table {
+        width: 90%;
+    }
+    .heading h1 {
+        font-size: 28px;
+    }
+    .heading h5 {
+        font-size: 12px;
+    }
+    .price_table .btn-download {
+        font-size: 14px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    footer i{
+    
+        font-size: 16px;     
+        margin-bottom: 20px;
+    }
+    .btn-download {
+        margin-top: 15px;
+        font-size: 10px;
+        width: 50%;
+        letter-spacing: 1px;
+    }
+        
+}
+
+@media (max-width: 375px ){
+
+    .height {
+        min-height: 80vh;
+    }
+    header h1 {
+        font-size: 28px;
+    }
+    header h5 {
+        font-size: 10px;
+    }
+    header p {
+        font-size: 14px;
+    }
+    
+    .form_box input[ type=submit ] {
+        padding: 12px 20px;  
+        font-size: 12px;
+    }
+    .btn-download {
+        font-size: 12px;
+        width: 60%;
+    }
+    
+
+
+}
+
+@media (max-width: 320px ){
+    
+    header p {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+    .btn-download {
+        padding: 15px 25px;
+        margin-top: 40px;
+        font-size: 10px;
+       letter-spacing: 2px;    
+    }
+    header h5 {
+        font-size: 12px;
+    }
+    .download .view-btn {
+        margin-bottom: 25px;
+        margin-right: 0px;
+    }
+
+    .price_table {
+        width: 100%;
+    }
+    
+    footer p {
+        font-size: 12px;
+    }
+    footer i{
+    
+        font-size: 16px;
+            
+        color: #444348;
+            
+        margin-right: 15px;
+            
+    }
+    .price_table .btn-download {
+        font-size: 12px;
+    }
+        
+
+}
